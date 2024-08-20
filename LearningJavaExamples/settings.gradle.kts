@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Learning Java Examples"
 include(":app")
+include(":learningJAVA")
